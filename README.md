@@ -1,12 +1,12 @@
-# _{my first webpage}_
+# _my first webpage_
 
-#### _{its a webpage}, {today}_
+#### _its a webpage, today_
 
-#### By _**{us}**_
+#### By _**Us**_
 
 ## Description
 
-_{its a webpage that shows some stuff }_
+_its a webpage that shows some stuff _
 
 ## Setup/Installation Requirements
 
@@ -14,18 +14,18 @@ _{its a webpage that shows some stuff }_
 
 ## Known Bugs
 
-_{its incredibly boring }_
+_its incredibly boring _
 
 ## Support and contact details
 
-_{close the webpage or press refresh}_
+_close the webpage or press refresh_
 
 ## Technologies Used
 
-_{made the webpage resize according to the size of the window}_
+_made the webpage resize according to the size of the window_
 
 ### License
 
-*{Licensed under MIT}*
+*Licensed under MIT*
 
-Copyright (c) 2015 **_{GDB Media and others}_**
+Copyright (c) 2015 **_GDB Media and others_**
